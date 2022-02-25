@@ -1,0 +1,15 @@
+C:\workspace\csharp-examples\revisaoIappa\bin\Debug\net6.0\revisaoIappa.exe
+C:\workspace\csharp-examples\revisaoIappa\bin\Debug\net6.0\revisaoIappa.deps.json
+C:\workspace\csharp-examples\revisaoIappa\bin\Debug\net6.0\revisaoIappa.runtimeconfig.json
+C:\workspace\csharp-examples\revisaoIappa\bin\Debug\net6.0\revisaoIappa.dll
+C:\workspace\csharp-examples\revisaoIappa\bin\Debug\net6.0\revisaoIappa.pdb
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.csproj.AssemblyReference.cache
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.AssemblyInfoInputs.cache
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.AssemblyInfo.cs
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.dll
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\refint\revisaoIappa.dll
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.pdb
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\revisaoIappa.genruntimeconfig.cache
+C:\workspace\csharp-examples\revisaoIappa\obj\Debug\net6.0\ref\revisaoIappa.dll
